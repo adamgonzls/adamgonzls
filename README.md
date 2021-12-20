@@ -10,10 +10,10 @@ My name is Adam and I'm a frontend developer. I'm from Texas, living in Arizona.
 ![](https://img.shields.io/badge/-WooCommerce-000?style=for-the-badge&logo=Woo)
 ![](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash)
 
-
 ## 👋🏽 How to Reach Me
-
-
+- [LinkedIn](https://www.linkedin.com/in/adamgonzales1/)
+- [My website](https://adamgonzalesworks.com) 
+- [Twitter](https://twitter.com/adamgonzls)
 
 
 <!--
