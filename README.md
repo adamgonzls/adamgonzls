@@ -2,7 +2,8 @@
 
 My name is Adam and I'm a frontend developer. I'm from Texas, living in Arizona. I love web development! The things that I'm most interested in are design and user experience.
 
-## 🤖 Technologies and Tools![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+## 🤖 Technologies and Tools
+![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=e3009f)
