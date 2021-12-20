@@ -2,7 +2,10 @@
 
 My name is Adam and I'm a frontend developer. I'm from Texas, living in Arizona. I love web development! The things that I'm most interested in are design and user experience.
 
-## 🌱 I’m currently learning React
+## 🤖 Technologies and Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e3009f)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=e3009f)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e3009f)
 
 <!--
 **adamgonzls/adamgonzls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
