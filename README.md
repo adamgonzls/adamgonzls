@@ -1,6 +1,6 @@
 # Hi, I'm Adam
 
-My name is Adam and I'm a frontend developer. I'm from Texas, living in Arizona. I love web development! The things that I'm most interested in are design and user experience.
+My name is Adam and I'm a frontend developer. I'm from Texas, living in Arizona. I love web development! I'm also very interested in design and user experience.
 
 ## 🤖 Technologies and Tools
 
