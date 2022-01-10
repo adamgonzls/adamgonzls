@@ -5,6 +5,7 @@ My name is Adam and I'm a frontend developer. I'm from Texas, living in Arizona.
 ## 🤖 Technologies and Tools
 
 ![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass)
 ![](https://img.shields.io/badge/-BEM-000?style=for-the-badge)
