@@ -22,9 +22,9 @@ My name is Adam and I'm a frontend developer and I love web development! I'm als
 ## 👋🏽 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/adamgonzales1/)
-- [My Website](https://adamgonzalesworks.com)
+- My Website: [adamgoodcoder.com](https://adamgoodcoder.com)
+- Email: [hello@adamgoodcoder.com](mailto:hello@adamgoodcoder.com)
 - [Stack Overflow](https://stackoverflow.com/users/5187168/adam-gonzales?tab=profile)
-- [Email Me](mailto:adam@adamgonzalesworks.com)
 - [Twitter](https://twitter.com/adamgonzls)
 
 <!--
