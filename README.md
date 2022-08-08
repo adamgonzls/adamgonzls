@@ -1,6 +1,6 @@
 # Hi, I'm Adam
 
-My name is Adam and I'm a frontend developer and I love web development! I'm also very interested in design and user experience.
+I'm a front-end developer and I love web development! I'm also interested in design and user experience.
 
 ## 🤖 Technologies and Tools
 
