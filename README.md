@@ -22,8 +22,8 @@ I'm a front-end developer and I love web development! I'm also interested in des
 ## 👋🏽 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/adamgonzales1/)
-- My Website: [adamgoodcoder.com](https://adamgoodcoder.com)
-- Email: [hello@adamgoodcoder.com](mailto:hello@adamgoodcoder.com)
+- My Website: [codedbyadam.com](https://codedbyadam.com)
+- Email: [hello@codedbyadam.com](mailto:hello@codedbyadam.com)
 - [Stack Overflow](https://stackoverflow.com/users/5187168/adam-gonzales?tab=profile)
 - [Twitter](https://twitter.com/adamgonzls)
 
