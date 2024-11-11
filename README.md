@@ -7,6 +7,7 @@ I'm a front-end developer and I love web development! I'm also interested in des
 ![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss)
 ![](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass)
 ![](https://img.shields.io/badge/-BEM-000?style=for-the-badge)
 ![](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
