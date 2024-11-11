@@ -15,7 +15,7 @@ I'm a front-end developer and I love web development! I'm also interested in des
 ![](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 ![](https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=WordPress)
 ![](https://img.shields.io/badge/-WooCommerce-000?style=for-the-badge&logo=Woo)
-![](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQLlogoColor=white)
+![](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash)
 ![](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
